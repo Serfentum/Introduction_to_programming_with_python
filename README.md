@@ -14,6 +14,9 @@ Materials for python course
 ## Useful sites
 * [visualizer of python program](http://www.pythontutor.com/visualize.html#mode=edit)
 * [official documentation](https://docs.python.org/3/)
+* [visualization of sorting algorithms with annoying sound](https://www.youtube.com/watch?v=kPRA0W1kECg)
+* [more about sorting algorithms](https://visualgo.net/bn/sorting?slide=1)
+* 
 
 ## Reading
 * [small booklet](http://www.bannermanhigh.glasgow.sch.uk/Websites/SchSecBannerman/UserFiles/file/Departments/Computing/Data%20Representation%20and%20Computer%20Architecture.pdf) about data representation in computer - contain useful information, feel free to skip all assignments
