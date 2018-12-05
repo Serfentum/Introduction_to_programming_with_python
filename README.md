@@ -14,6 +14,8 @@ Materials for python course
 ## Useful sites
 * [visualizer of python program](http://www.pythontutor.com/visualize.html#mode=edit)
 * [official documentation](https://docs.python.org/3/)
+* [official style guide](https://www.python.org/dev/peps/pep-0008/) - for now you should just read some section, imho - not everything, cause there is a lot of things which are irrelevant for us now
+* [same shit in russian](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html) - for those who find it easier to read in russian
 * [visualization of sorting algorithms with annoying sound](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [more about sorting algorithms](https://visualgo.net/bn/sorting?slide=1)
 * 
