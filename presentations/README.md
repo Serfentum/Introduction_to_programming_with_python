@@ -34,11 +34,13 @@
     * debugger
     * duck
 1. Working with strings
-1. re
+    * operations with strings
+    * string methods
 1. Input and Output
     * stdin, stderr, stdout
     * work with files
     * context manager
+1. re
 1. Try/Except
 1. Decomposition - start
     * wtf
