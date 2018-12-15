@@ -14,10 +14,15 @@ Materials for python course
 ## Useful sites
 * [visualizer of python program](http://www.pythontutor.com/visualize.html#mode=edit)
 * [official documentation](https://docs.python.org/3/)
+* [cool site with python tutorial](https://www.tutorialspoint.com/python/) - pay attention it uses 2nd version of python while we are using python 3
 * [official style guide](https://www.python.org/dev/peps/pep-0008/) - for now you should just read some section, imho - not everything, cause there is a lot of things which are irrelevant for us now
 * [same shit in russian](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html) - for those who find it easier to read in russian
 * [visualization of sorting algorithms with annoying sound](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [more about sorting algorithms](https://visualgo.net/bn/sorting?slide=1)
+* [control codes](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Control_codes) - list of special characters (\t, \n, ...)
+* [format method](https://docs.python.org/3.7/library/string.html#formatspec) - method to format strings
+* [another cool format method](https://realpython.com/python-f-strings/) - also there are examples of different styles of formatting strings
+
 
 ## Reading
 * [small booklet](http://www.bannermanhigh.glasgow.sch.uk/Websites/SchSecBannerman/UserFiles/file/Departments/Computing/Data%20Representation%20and%20Computer%20Architecture.pdf) about data representation in computer - contain useful information, feel free to skip all assignments
