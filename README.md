@@ -16,7 +16,7 @@ Materials for python course
 * [official documentation](https://docs.python.org/3/)
 * [cool site with python tutorial](https://www.tutorialspoint.com/python/) - pay attention it uses 2nd version of python while we are using python 3
 * [official style guide](https://www.python.org/dev/peps/pep-0008/) - for now you should just read some section, imho - not everything, cause there is a lot of things which are irrelevant for us now
-* [same shit in russian](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html) - for those who find it easier to read in russian
+* [same stuff in russian](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html) - for those who find it easier to read in russian
 * [visualization of sorting algorithms with annoying sound](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [more about sorting algorithms](https://visualgo.net/bn/sorting?slide=1)
 * [control codes](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Control_codes) - list of special characters (\t, \n, ...)
