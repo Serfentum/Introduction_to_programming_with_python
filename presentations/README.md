@@ -36,26 +36,31 @@
 1. Working with strings
     * operations with strings
     * string methods
-1. Input and Output
-    * stdin, stderr, stdout
-    * work with files
-    * context manager
-1. re
-1. Try/Except
-1. Decomposition - start
-    * wtf
-    * basics
 1. Functions
     * definition
     * scopes
     * recursion
     * memoization
-1. Generators
-    * essence
-    * creation
+1. Input and Output
+    * stdin, stderr, stdout
+    * work with files
+    * context manager
+1. Comprehensions
+1. Functional Programming basics
+    * lambda
+    * filter
+    * map
 1. Decomposition - modules
     * what is it
     * imports
+1. re
+1. Try/Except
+1. Decomposition - start
+    * wtf
+    * basics
+1. Generators
+    * essence
+    * creation
 1. Decomposition - classes
     * object oriented programming principles
     * definition

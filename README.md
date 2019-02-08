@@ -22,6 +22,8 @@ Materials for python course
 * [control codes](https://en.wikipedia.org/wiki/List_of_Unicode_characters#Control_codes) - list of special characters (\t, \n, ...)
 * [format method](https://docs.python.org/3.7/library/string.html#formatspec) - method to format strings
 * [another cool format method](https://realpython.com/python-f-strings/) - also there are examples of different styles of formatting strings
+* [example of different ways to find Fibonacci number](https://medium.com/@dimko1/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%BD%D0%B0%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B8%D0%BB%D1%81%D0%B0-%D1%84%D0%B8%D0%B1%D0%BE%D0%BD%D0%B0%D1%87%D1%87%D0%B8-b68a582b6374)
+* [python syntax description](https://docs.python.org/3/reference/lexical_analysis.html#grammar-token-id-continue) - how python treat your scripts 
 
 
 ## Reading
